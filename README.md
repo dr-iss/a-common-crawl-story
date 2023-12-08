@@ -11,7 +11,7 @@
     <a id="Titre">Common Crawl Data Base</a>
     <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h1 id="titre">La vie sociale des données: Common Crawl</h1>
+<h1 id="titre">Qu'est ce que Common Crawl ?</h1>
 
 <h2 id="partie">Introduction</h2>
 
